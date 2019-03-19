@@ -1,0 +1,9 @@
+2 tipos de icones:
+
+BitMap - com pixels - PNG e JPEG
+
+Vetores - com calculos matématicos - SVG
+
+Listar consultas
+Cadastrar consultas
+Login
